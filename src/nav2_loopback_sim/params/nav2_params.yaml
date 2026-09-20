@@ -222,7 +222,7 @@ map_server:
     use_sim_time: True
     # Overridden in launch by the "map" launch configuration or provided default value.
     # To use in yaml, remove the default "map" value in the tb3_simulation_launch.py file & provide full path to map below.
-    yaml_filename: "/Users/zhiangqi/robostack/nav2_loopback_sim/maps/tb3_sandbox.yaml"
+    yaml_filename: "/home/tungchiahui/UserFolder/MySource/ysu2026_rm_sentry/ysu2026_rm_sentry_nav_cod/install/nav2_loopback_sim/share/nav2_loopback_sim/tb3_sandbox.yaml"
 
 map_saver:
   ros__parameters:
